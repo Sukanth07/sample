@@ -156,4 +156,4 @@ stud=input("\nEnter Student Name : ")
 o=mark()
 o.display()
 
-#hello i am checking the git by abiram
+#Fuck
